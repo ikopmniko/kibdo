@@ -22,11 +22,11 @@ def read_csv_range(filename, start, end):
     return rows
 
 # Rentang data yang diproses (misal dari baris 1 sampai 50)
-start_row =4400  # Baris pertama (0-based index)
-end_row = 4600  # Baris terakhir yang ingin diproses
+start_row =4600  # Baris pertama (0-based index)
+end_row = 4800  # Baris terakhir yang ingin diproses
 
 # Deklarasi akun tunggal
-email = "mercymemataomzv8"
+email = "SandiSaputra2b"
 password = "@@Eskepal123"
 
 # Baca judul video sesuai rentang yang diinginkan
@@ -54,7 +54,7 @@ for title in titles:
         konten = f'''
         36 minutes ago - Access {title} Leaked Onlyfans New Update Files 2025
 
-        LINK ⏩⏩ https://fapclisk.web.app?title={modif_kata}
+        LINK ⏩⏩ https://clupfans.web.app?title={modif_kata}
 
         {title} Leaked onlyfans update pict  - you'll be able to download and preview all content from {title} Onlyfans in just a few clicks.
         '''
