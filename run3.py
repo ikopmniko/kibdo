@@ -22,11 +22,11 @@ def read_csv_range(filename, start, end):
     return rows
 
 # Rentang data yang diproses (misal dari baris 1 sampai 50)
-start_row =800  # Baris pertama (0-based index)
-end_row = 1000  # Baris terakhir yang ingin diproses
+start_row =1000  # Baris pertama (0-based index)
+end_row = 1200  # Baris terakhir yang ingin diproses
 
 # Deklarasi akun tunggal
-email = "shinokugaria"
+email = "raceyqnoldaxm4"
 password = "@@Eskepal123"
 
 # Baca judul video sesuai rentang yang diinginkan
