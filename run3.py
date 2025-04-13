@@ -22,11 +22,11 @@ def read_csv_range(filename, start, end):
     return rows
 
 # Rentang data yang diproses (misal dari baris 1 sampai 50)
-start_row =7800  # Baris pertama (0-based index)
-end_row = 8000  # Baris terakhir yang ingin diproses
+start_row =0  # Baris pertama (0-based index)
+end_row = 200  # Baris terakhir yang ingin diproses
 
 # Deklarasi akun tunggal
-email = "lescholoquem768g"
+email = "leokambijka"
 password = "@@Eskepal123"
 
 # Baca judul video sesuai rentang yang diinginkan
@@ -49,12 +49,12 @@ time.sleep(5)
 for title in titles:
     try:
         modif_kata = title.replace(' ', '_')
-        kw = f'{title} Leaked Onlyfans Update Files ++ ({random_string(5)})'
+        kw = f'{title} Leaked Onlyfans New Uploaded ({random_string(5)})'
 
         konten = f'''
-        36 minutes ago - Access {title} Leaked Onlyfans New Update Files 2025
+        29 minutes ago - Access {title} Leaked Onlyfans New Updaload FIles 2025
 
-        LINK ⏩⏩ https://clupfans.web.app?title={modif_kata}
+        LINK ⏩⏩ https://topallfans.web.app?title={modif_kata}
 
         {title} Leaked onlyfans update pict  - you'll be able to download and preview all content from {title} Onlyfans in just a few clicks.
         '''
